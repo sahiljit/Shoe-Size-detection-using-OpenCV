@@ -30,7 +30,7 @@
 ## Results
 
 #### Input Image
-![foot](/images/foot-1.jpg)
+![foot](/images/foot.jpg)
 
 #### Output Image and Segmentations
 ![output](/images/output.png)
